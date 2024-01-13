@@ -1,0 +1,1 @@
+Test procedure maze generation
